@@ -1,0 +1,7 @@
+{
+  "name": "YES DTF - Calculadora de Precios DTF Textil y UV",
+  "description": "Calculadora profesional de precios para impresión DTF Textil y DTF UV por metro lineal o por imagen individual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
